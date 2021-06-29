@@ -1,0 +1,10 @@
+[requires]
+protobuf/3.9.1
+
+[build_requires]
+protoc_installer/3.9.1@bincrafters/stable
+
+[generators]
+virtualenv
+cmake_paths
+cmake_find_package

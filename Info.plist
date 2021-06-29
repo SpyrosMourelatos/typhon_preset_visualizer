@@ -1,0 +1,12 @@
+{
+	CFBundleSignature = APPL;
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundleName = preset_comperer;
+	CFBundleIdentifier = preset_comperer;
+	CFBundleVersion = "MANAGER V3";
+	"CFBundleGetInfoString" = preset_comperer;
+	"CFBundleShortVersionString" = "MANAGER V3";
+	CFBundleIconFile = "icon.icns";
+	"NSHighResolutionCapable" = YES;
+	NSPrincipalClass = NSApplication;
+}

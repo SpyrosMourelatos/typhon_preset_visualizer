@@ -10,6 +10,7 @@ preset_viewer::preset_viewer(QWidget *parent)
     , ui(new Ui::preset_viewer)
 {
     ui->setupUi(this);
+    ui->button3->setVisible(false);
     ui->button4->setVisible(false);
 }
 
